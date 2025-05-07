@@ -1,4 +1,4 @@
-## Desafio 04 - Ignite Shop v2
+## BookWise
 
 ![alt text](image.png)
 
